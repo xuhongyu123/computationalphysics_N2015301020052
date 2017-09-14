@@ -9,7 +9,7 @@
 ### 正文
 方法一暴力拼图不解释  程序[2-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Word2-1.py)
 
-效果展示~[](链接: https://pan.baidu.com/s/1jIJza9g )
+效果展示 ![1](https://pan.baidu.com/s/1jIJza9g )
 
 然后思考能不能先编辑好每个字母的对应编排方式，于是八方求助做出了这个  程序[2-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Word2-2.py)
 
