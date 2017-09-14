@@ -7,7 +7,7 @@
 - 蔡浩
 
 ## 作业要求列表
-- [Homework list]()
+- [Homework list](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052-/tree/master)
 
 ## 作业超链接
 - [ ] 1.[Exercise_01](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/README.md)注册github,建立readme.md
