@@ -1,4 +1,4 @@
-A=["    #      ","  #   #    "," # # # #   ","#       #  ","#       #  "] 
+A=["    #      ","  #   #    "," # # # #   ","#       #  ","#       #  "]  #designing char to display corresponding letter
 
 B=["# # # #    ","#       #  ","# # # #    ","#       #  ","# # # #    "]
 
@@ -52,10 +52,10 @@ Z=["# # # # #  ","      #    ","    #      ","  #        ","# # # # #  "]
 
 show=["","","","",""]
 
-text=input("please input your name:")  
+text=input("please input your name:")  #for users to input something
 
 for i in range(len(text)):
-    if (text[i]=='A' or text[i]=='a'):  
+    if (text[i]=='A' or text[i]=='a'): #pick some letters from users' name 
         for l in range(5):
             show[l]=show[l]+A[l] 
     elif (text[i]=='B' or text[i]=='b'):
@@ -134,5 +134,5 @@ for i in range(len(text)):
         for l in range(5):
             show[l]=show[l]+Z[l]
             
-for l in range(5):       
+for l in range(5):       #display these letters
     print (show[l])
