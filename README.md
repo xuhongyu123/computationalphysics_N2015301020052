@@ -11,7 +11,7 @@
 
 ## 作业超链接
 - [ ] 1.[Exercise_01](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/README.md)注册github,建立readme.md
-- [ ] 2.[Exercise_02:name]()编写一个python程序，在屏幕上用字母拼出自己的英文名字
+- [ ] 2.[Exercise_02:name](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_2.md)编写一个python程序，在屏幕上用字母拼出自己的英文名字
 - [ ] 3.[Exercise_03:All levels]()
 - [ ] 4.[Exercise_04:Chapter 1 problem 1.5：The decay of two kinds of particles]()
 - [ ] 5.[Exercise_05:Chapter 1 problem 1.6: Population growth]()
