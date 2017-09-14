@@ -134,5 +134,5 @@ for i in range(len(text)):
         for l in range(5):
             show[l]=show[l]+Z[l]
             
-   for l in range(5):       
-      print (show[l])
+for l in range(5):       
+    print (show[l])
