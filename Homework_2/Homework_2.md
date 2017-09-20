@@ -4,7 +4,7 @@
 在屏幕上用字符拼出任自己的名字
 
 ### 背景介绍
-中文名字过于复杂完全hold不住（编程也太难玩了），所以就拼出拼音吧
+中文名字过于复杂完全hold不住（编程也太难玩了），所以就拼出拼音吧 
 
 ### 正文
 方法一暴力拼图不解释  程序[2-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Word2-1.py)
