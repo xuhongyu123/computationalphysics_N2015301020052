@@ -13,6 +13,8 @@
 已经显示的"图形"，再输出另外的"帧",即可让图形动起来。再者，使用指令import time，time.sleep(sometime)即可让计算机输出每帧的间隔可控，
 避免动画太快。还是比较基础的。
 
-代码在此
+代码在此[戳我戳我](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/homework3/Word3-1.py）
 
-效果展示
+效果展示[戳我戳我](https://pan.baidu.com/s/1boDXIlL）
+
+
