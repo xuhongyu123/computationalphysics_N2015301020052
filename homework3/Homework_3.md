@@ -40,7 +40,7 @@
 ### 致谢
 提供的pygame代码的[大佬](http://www.cnblogs.com/hongten/p/hongten_pygame_bouncing_ball.html)和提供修改意见的蔡茂睿同学
 
-感谢知道我写level 1 的曾梓龙学长和一同学习的乔敏琛同学
+感谢指导我写level 1 的曾梓龙学长和一同学习的乔敏琛同学
 
 感谢曹一学长的代码指导和南京大学邹聪同学的讲解
 
