@@ -33,11 +33,11 @@
 
 代码在此（[戳我戳我](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/homework3/Word3-3.py)）
 
-### 结论
+### 四、结论
 本次作业嘛，主要就是一个import os，i = os.system('cls')代码的应用，基本还在射程之内。level2就属于超纲部分了，这里先提前感谢高中同学的讲解！（待会
 致谢还会再说），帮助我理解了level2代码的一些含义和用的语法。至于level3，学习学习大佬的操作就好
 
-### 致谢
+### 五、致谢
 提供的pygame代码的[大佬](http://www.cnblogs.com/hongten/p/hongten_pygame_bouncing_ball.html)和提供修改意见的蔡茂睿同学
 
 感谢指导我写level 1 的曾梓龙学长和一同学习的乔敏琛同学
