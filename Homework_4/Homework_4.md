@@ -70,11 +70,15 @@ n是走了几步。
 
 源代码在此[戳我戳我](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_4/Word4.py)
 
-指令框![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_4/4-3.png)
+指令框
+
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_4/4-3.png)
 
 数值结果[txt数据](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_4/text_4)
 
-效果图![]()
+效果图
+
+![]()
 
 ### 四、结论
 matplotlib使用起来非常方便，但是由于一直想着想把图像画到同一张图上。所以强行增加了工作难度，最后请教了学长才勉强完成代码。对四个函数的使用和对如何编辑方程与计算有了新的体会，也算小有成就吧
