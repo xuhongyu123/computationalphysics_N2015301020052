@@ -48,19 +48,19 @@ def calculate(N_A,N_B,t,tau,dt,time,n):
         N_B.append(N_B[-1]+(N_A[-1]-N_B[-1])/tau*dt)
         t.append(t[-1]+dt)
         
-# store data:
-#      pickle data, stored in 'nuclei_decay_two_type_pickle.txt'
+# store data
 #      txt data, stored in 'nuclei_decay_two_type_txt.txt'
 def store(N_A,N_B,t,tau,dt,time,n):
-    myfile = open('nuclei_decay_two_type_pickle.txt','a')
-    pickle.dump(t,myfile)
-    pickle.dump(N_A,myfile)
-    pickle.dump(N_B,myfile)
-    myfile.close()
-    myfile = open('nuclei_decay_two_type_txt.txt','a')
-    print >> myfile,'This data is a numerical solution for the decay problem'
+    mfile = open('nuclei_decay_two_type_txt.txt','a')
+    print >> mfile,'This data is a numerical solution for the decay problem'
     for i in range(len(t)): 
-        print >> myfile,t[i],N_A[i],N_B[i]
+        print >> mfile,t[i],N_A[i],N_B[i]
+    myfile.close()
+   
+    pickle_file = open("pickled_data.pkl", "w")
+    pickle.dump(t,pickle_file)
+    pickle.dump(N_A,pickle_file)
+    pickle.dump(N_B,pickle_file)
 
 # MAIN: call the function & do all loops
 # compute number of radioactive nuclei
@@ -71,16 +71,16 @@ for i in range(times):
     delete()
     dt = float(input('numerical step size:  '))
     n = int((time/dt))
-    calculate(N_A,N_B,t,tau,dt,time,n)
-    store(N_A,N_B,t,tau,dt,time,n)
-    N_A_total.append(N_A)
-    N_B_total.append(N_B)
-    t_total.append(t)
-    dt_total.append(dt)
-    N_A_theory = c2*np.exp(-2/tau*(array(t)-t[0]))+c1
-    N_B_theory = -c2*np.exp(-2/tau*(array(t)-t[0]))+c1
-    N_A_diff.append(array(N_A_total[i])-array(N_A_theory))
-    N_B_diff.append(array(N_B_total[i])-array(N_B_theory))
+calculate(N_A,N_B,t,tau,dt,time,n)
+store(N_A,N_B,t,tau,dt,time,n)
+N_A_total.append(N_A)
+N_B_total.append(N_B)
+t_total.append(t)
+dt_total.append(dt)
+N_A_theory = c2*py.exp(-2/tau*(py.array(t)-t[0]))+c1
+N_B_theory = -c2*py.exp(-2/tau*(py.array(t)-t[0]))+c1
+N_A_diff.append(py.array(N_A_total[i])-py.array(N_A_theory))
+N_B_diff.append(py.array(N_B_total[i])-py.array(N_B_theory))
 
 # plot graphics to show the numerical result
 fig_all=figure(figsize=(14,7),dpi=80)
@@ -123,5 +123,6 @@ ylabel('difference')
 title('difference between theory and simulation',fontsize=20)
 legend(loc ='best')
 
-savefig('decay of nuclei.jpg')
 show(fig_all)
+savefig('decay of nuclei.jpg')
+
