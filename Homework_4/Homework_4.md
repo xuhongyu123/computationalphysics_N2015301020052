@@ -88,7 +88,7 @@ matplotlib使用起来非常方便，但是由于一直想着想把图像画到�
 
 感谢南京大学的邹聪同学对我在使用函数上的帮助和语法上的排bug
 
-感谢caihao老师的作业例子[点击进入](https://github.com/caihao/computational_physics_whu/tree/master/chapter1)
+感谢蔡浩老师的作业例子[点击进入](https://github.com/caihao/computational_physics_whu/tree/master/chapter1)
 
 感谢matplotlib的教程[点击进入](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/) 
 
