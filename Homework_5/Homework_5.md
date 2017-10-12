@@ -62,7 +62,7 @@ Figure 2.5的初始条件为V0=700，角度分别的35度和45度。
 
 输入初始速度，比如700
 
-程序通过遍历0到90度，选取最大X距离。
+程序通过遍历0到90度，选取最大X距离。输出形式为[角度，最大x轴距离]
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/5-8.jpg)
 
@@ -82,6 +82,7 @@ Figure 2.5的初始条件为V0=700，角度分别的35度和45度。
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/5-12.jpg)
 
 初速度为700
+
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/5-10.jpg)
 
 初速度为1200
