@@ -14,8 +14,8 @@
 - [x] 2.[Exercise_02:name](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_2/Homework_2.md)编写一个python程序，在屏幕上用字母拼出自己的英文名字
 - [x] 3.[Exercise_03:show.gif](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/homework3/Homework_3.md)编写一个python程序让自己的名字在屏幕上动起来
 - [x] 4.[Exercise_04:Chapter 1 problem 1.5：The decay of two kinds of particles](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_4/Homework_4.md)完成第一单元任一课后习题
-- [x] 5.[Exercise_05:Chapter 2 problem 2.9: Population growth](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/Homework_5.md)完成课本31页2.6~2.12任意题
-- [ ] 6.[Exercise_06:Chapter 2 problem 2.9 & 2.10: The cannon]()
+- [x] 5.[Exercise_05:Chapter 2 problem 2.9: The cannon](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/Homework_5.md)完成课本31页2.6~2.12任意题
+- [ ] 6.[Exercise_06:Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball]()完成课本43页2.17-2.21任意题
 - [ ] 7.[Exercise_07:Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball]()
 - [ ] 8.[Exercise_08:Chapter 3 problem 3.4: Non-linear oscillator]()
 - [ ] 9.[Exercise_09:Chapter 3 problem 3.16: Strange attractor]()
