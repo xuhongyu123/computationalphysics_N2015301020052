@@ -5,6 +5,7 @@
 
 >***研究庞加莱截面在不同外力相位取值时的情况，与Figure 3.9进行比较。**
 >
+
 ## · 背景介绍 ##
 
 本次作业将讨论同时考虑线性、强迫力以及摩擦这三种因素的单摆的运动轨迹，也就是所谓的物理摆。
@@ -14,7 +15,7 @@
 由教材
 式（3.18），（3.19）
 
-![](http://i.imgur.com/qGFX3n3.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/7-6.jpg)
 
 其中,设置
 
@@ -41,10 +42,10 @@ F_d为强迫力
 [word7-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-2.py)
 
 
-![](http://i.imgur.com/WhCwlOM.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/7-1.png)
 
 
-![](http://i.imgur.com/HKnfkT8.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/7-2.png)
 
 图中蓝色线表示Force=0的状态，可见没有外界驱动力下的单摆在阻力的影响下很快就停止了。
 
@@ -56,7 +57,7 @@ F_d为强迫力
 
 然后这里就出了点bug
 
-我也不知道为什么第一幅图30s后就跟课本的Figure 3.6不一样了。
+我也不知道为什么第一幅图30s后就跟课本的Figure 3.6不一样了。但是感觉好像我的还规律一些（虽然本来就是没规律的）
 
 可能是程序的问题？但是问了学长学姐也没有好的答案，同级貌似没有像我这样无耻的从3.6开始做的
 
@@ -66,7 +67,7 @@ F_d为强迫力
 
 运行程序[word7-3](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-3.py)
 
-![](http://i.imgur.com/Mmeb7wr.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/7-3.png)
 
 蓝线为Force=0.5的情况。由图可知，对于两个初始位置差异很小的非混沌摆，其角度差会迅速减小，最终趋于0.这表明非混沌摆对初值不敏感。
 
@@ -77,7 +78,7 @@ F_d为强迫力
 运行程序[word7-4](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-4.py)
 
 
-![](http://i.imgur.com/XzlumrV.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/7-4.jpg)
 
 图像与课本Figure 3.8完美符合。撒花。感动。
 
@@ -92,7 +93,7 @@ F_d为强迫力
 
 运行程序[word7-5](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-5.py)
 
-![](http://i.imgur.com/NuzcmNW.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/7-5.png)
 
 Figure 3.9为t=驱动力周期倍数的时刻的情况
 
