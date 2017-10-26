@@ -36,20 +36,15 @@ F_d为强迫力
 
 运行程序
 
-[study on the figure 3.6 of angle](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.6%20of%20angle.py)
+[word7-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-1.py)
 
-[study on the figure 3.6 of omega](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.6%20of%20omega.py)
+[word7-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-2.py)
 
 
 ![](http://i.imgur.com/WhCwlOM.jpg)
 
 
 ![](http://i.imgur.com/HKnfkT8.jpg)
-
-
-我也不知道为什么30s后就跟课本的Figure 3.6不一样了。
-
-可能是程序的问题？但是问了学长学姐也没有好的答案，同级貌似没有像我这样无耻的从3.6开始做的
 
 图中蓝色线表示Force=0的状态，可见没有外界驱动力下的单摆在阻力的影响下很快就停止了。
 
@@ -59,11 +54,17 @@ F_d为强迫力
 
 绿色的线表示Force=1.2时的运动状态，可以看到，单摆的运动是没有周期性的，这就是混沌的特征。图中竖直的线是由于当角度超过180度时，程序将其角度自动减小360度，反之亦然。
 
+然后这里就出了点bug
+
+我也不知道为什么第一幅图30s后就跟课本的Figure 3.6不一样了。
+
+可能是程序的问题？但是问了学长学姐也没有好的答案，同级貌似没有像我这样无耻的从3.6开始做的
+
 #### 2.混沌摆对初值的敏感性
 
 混沌摆的最大特征是当初值仅仅改变了一点点时，结果就会有极大的变化。为了示意这种情况，选择两个摆，它们的初始角度仅仅相差0.001rad。之后观察它们分别在F=1.2（混沌）和F=0.5（非混沌）的情况下角度之差的变化规律。
 
-运行程序[study on the figure 3.7](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.7.py)
+运行程序[word7-3](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-3.py)
 
 ![](http://i.imgur.com/Mmeb7wr.jpg)
 
@@ -73,7 +74,7 @@ F_d为强迫力
 
 #### 3.混沌摆的角度与角速度的关系
 
-运行程序[study on the figure 3.8](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.8.py)
+运行程序[word7-4](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-4.py)
 
 
 ![](http://i.imgur.com/XzlumrV.jpg)
@@ -89,8 +90,7 @@ F_d为强迫力
 
 终于进入正题了
 
-运行程序[exercise 3.12](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/exercise%203.12.py)
-
+运行程序[word7-5](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Word7-5.py)
 
 ![](http://i.imgur.com/NuzcmNW.jpg)
 
