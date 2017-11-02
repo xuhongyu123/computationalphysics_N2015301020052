@@ -10,7 +10,7 @@ regimes我理解为不同坐标，相平面。
 ## · 背景介绍
 由教材，大气物理学家Lorenz在研究Rayleigh-Benard问题时，将流体力学基本方程组Navier-Stokes方程组化简为简单形式： 
 
-![](http://i.imgur.com/5lV3SMR.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-1.jpg)
 
 这个方程组被称为Lorenz方程组，或Lorenz模型。其中x,y,z为变量，其余为常数。
 
@@ -28,15 +28,15 @@ b=8/3
 
 改变r的大小，观察z随时间的变化情况。在这个模型中，r代表了流体顶部与底部的温度差，类似于单摆问题中外界驱动力的地位。
 
-![](http://i.imgur.com/sz38pCu.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-2.png)
 
-可以看到，与Figure3.15完全符合
+可以看到，与课本Figure3.15完全符合
 
 同时，观察x,y随时间的变化情况
 
-![](http://i.imgur.com/XeztGBN.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-3.jpg)
 
-![](http://i.imgur.com/YG2re0W.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-4.jpg)
 
 r=5时，图像一开始有一点振荡，随后振幅衰减，x,y,z变成一个与时间无关的常数。
 
@@ -58,15 +58,15 @@ r=25时，图像变为混沌状态。
 
 然后是x-y平面的
 
-![](http://i.imgur.com/IZG7XY9.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-5.jpg)
 
 然后是y-z平面
 
-![](http://i.imgur.com/7uSXNfK.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-6.jpg)
 
 可见 满足Wikipedia “Lorenz system”词条的示意图
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-7.gif)
 
 A sample solution in the Lorenz attractor when ρ = 28, σ = 10, and β = 8/3
 
@@ -81,7 +81,7 @@ A sample solution in the Lorenz attractor when ρ = 28, σ = 10, and β = 8/3
 
 这里x=0,y=0的条件由x,y绝对值≤0.01代替
 
-![](http://i.imgur.com/iBCMu0F.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-9.png)
 
 可以看到，与Figure3.17完全符合
 
@@ -90,9 +90,9 @@ A sample solution in the Lorenz attractor when ρ = 28, σ = 10, and β = 8/3
 
 运行程序[word8-4](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/Word8-4.py)
 
-![](http://i.imgur.com/zlFLvDg.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-10.png)
 
-![](http://i.imgur.com/3ceU626.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-11.png)
 
 与Figure 3.18相吻合。
 
