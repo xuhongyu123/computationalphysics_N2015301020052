@@ -17,7 +17,7 @@
 - [x] 5.[Exercise_05:Chapter 2 problem 2.9: The cannon](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/Homework_5.md)完成课本31页2.6~2.12任意题
 - [x] 6.[Exercise_06:Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_6/Homework_6.md)完成课本43页2.17-2.21任意题
 - [x] 7.[Exercise_08:Chapter 3 problem 3.12:Poincare sectionr](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Homework_7.md)任选3.9至3.14一题完成
-- [ ] 8.[Exercise_08:Chapter 3 problem 3.4: Non-linear oscillator]()
+- [x] 8.[Exercise_08:Chapter 3 problem 3.26: The lorenz model](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/Homework_8.md)任选课本70面和82面任意题完成
 - [ ] 9.[Exercise_09:Chapter 3 problem 3.16: Strange attractor]()
 - [ ] 10.[Exercise_10:Chapter 3 problem 3.31: Billiard ball on diverse table]()
 - [ ] 11.[Exercise_11:Chapter 4 problem 4.11: The percession of Mercury]()
