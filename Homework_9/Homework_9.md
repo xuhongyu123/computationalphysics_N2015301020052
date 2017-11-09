@@ -6,7 +6,7 @@
 ## · 正文
 ### **1.边界为运动场时台球的运动**
 
-运行程序[word9-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-1.jpg)
+运行程序[word9-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
 
 考虑边界形状为半径为r的圆形，可以预见台球的运动应该是高度规则的。然后考虑所谓的体育场模型，即在两个半圆之间加上一块矩形区域，矩形长度为σr，这样使得球台的对称性很大破坏。可以发现，现在台球的轨迹几乎可以铺满整个台面，运动无规律性也大大提高。 
 
@@ -16,7 +16,7 @@
 
 ### **2.边界为椭圆时台球的运动**
 
-运行程序[word9-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/8-1.jpg)
+运行程序[word9-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-2.py)
 　
  当适当改变边界形状时，会有更多的现象发生，一般来讲，边界形状不是圆形等高度规则的形状时，台球运动是混沌的，但是当边界是圆锥曲线时，应该可以期盼台球运动具有一定的规则。下图6展示了边界是椭圆的情况，并且台球发射位置恰为椭圆焦点，这样台球运动每次都会再次经过焦点。 
  
