@@ -35,21 +35,21 @@ Pygame 是一组用来开发游戏软件的 Python 程序模块，基于 SDL 库
 
 然后我很骚的学会了怎么加bgm，但是好像只能加wav文件，而改成这个文件之后好听的歌就变了，所以随便搞了一个调子
 ### ***2.坦克对轰***
-稍微有点技术含量了
+其实是一个很没有技术含量的游戏
 
-其实很多代码都是囫囵吞枣搬运的
+坦克都是平射加农炮（主要是懒得设计抛物线轨迹什么的）
 
-但是做出来效果还是很好的
+A和D键左右移动（虽然移动没啥用),J射击，漏掉五辆坦克就lose，至于win嘛...貌似没有，可以一直刷敌军（刺激吧）
 
 源代码戳这里[word m-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
 
 需要的文件在这里[data2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
 
-简单的展示一下界面
+简单的展示一下界面，过程中本人在疯狂按J。
 
 [word m-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
 
-希望老师玩的开心，也住院老师早日康复！！！
+希望老师玩的开心（好像毫无可玩性），也住院老师早日康复！！！
 
 ## · 结论
 没啥结论...写的很痛苦算么
