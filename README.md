@@ -19,9 +19,10 @@
 - [x] 7.[Exercise_08:Chapter 3 problem 3.12:Poincare sectionr](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_7/Homework_7.md)任选3.9至3.14一题完成
 - [x] 8.[Exercise_08:Chapter 3 problem 3.26: The lorenz model](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework-8/Homework_8.md)任选课本70面和82面任意题完成
 - [x] 9.[Exercise_10:Chapter 3 problem 3.31: Billiard ball on diverse table](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Homework_9.md)任选课本88页任意题完成
-- [ ] 10.[Exercise_10:Chapter 3 problem 3.31: Billiard ball on diverse table]()
-- [ ] 11.[Exercise_11:Chapter 4 problem 4.11: The percession of Mercury]()
-- [ ] 12.[Exercise_12:Chapter 4 problem 4.18: The Kirkwood Gap]()
-- [ ] 13.[Exercise_13:Chapter 5 problem 5.7: The Jacobi method v.s.The SOR algorithm]()
-- [ ] 14.[Exercise_14:Chapter 6 problem 6.15: The realistic string problem]()
-- [ ] 15.[Final Project:用轨道能量分析Kirkwood Gap的缝宽]()
+- [x] 10.[Middle Project:pygame](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/middle%20exam/Middle%20Exam.md)祝老师早日康复！！！
+- [ ] 11.[Exercise_10:Chapter 3 problem 3.31: Billiard ball on diverse table]()
+- [ ] 12.[Exercise_11:Chapter 4 problem 4.11: The percession of Mercury]()
+- [ ] 13.[Exercise_12:Chapter 4 problem 4.18: The Kirkwood Gap]()
+- [ ] 14.[Exercise_13:Chapter 5 problem 5.7: The Jacobi method v.s.The SOR algorithm]()
+- [ ] 15.[Exercise_14:Chapter 6 problem 6.15: The realistic string problem]()
+- [ ] 16.[Final Project:用轨道能量分析Kirkwood Gap的缝宽]()
