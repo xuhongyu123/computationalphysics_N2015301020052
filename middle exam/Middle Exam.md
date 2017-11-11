@@ -37,17 +37,19 @@ Pygame 是一组用来开发游戏软件的 Python 程序模块，基于 SDL 库
 ### ***2.坦克对轰***
 其实是一个很没有技术含量的游戏
 
+我觉得我主要干的事情就是贴图
+
 坦克都是平射加农炮（主要是懒得设计抛物线轨迹什么的）
 
 A和D键左右移动（虽然移动没啥用),J射击，漏掉五辆坦克就lose，至于win嘛...貌似没有，可以一直刷敌军（刺激吧）
 
-源代码戳这里[word m-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
+源代码戳这里[word m-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/middle%20exam/Word%20middle-2.py)
 
-需要的文件在这里[data2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
+需要的文件在这里[data2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/tree/master/middle%20exam/data%202)
 
 简单的展示一下界面，过程中本人在疯狂按J。
 
-[word m-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Word9-1.py)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/middle%20exam/%E6%9C%9F%E4%B8%AD3.gif)
 
 希望老师玩的开心（好像毫无可玩性），也住院老师早日康复！！！
 
