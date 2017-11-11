@@ -25,6 +25,8 @@ Pygame 是一组用来开发游戏软件的 Python 程序模块，基于 SDL 库
 ### ***1.弹球弹弹弹***
 很基础的游戏了，就是一堆球在框里谈来谈去，手动修改数量和速度改变弹球运动状态
 
+方向键上下改变速度；鼠标左右键增减球数；方向键左右键改变音量
+
 源代码戳这里[word m-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/middle%20exam/Word%20middle-1.py)
 
 运行需要的文件在这里[data-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/tree/master/middle%20exam/data%201)
@@ -55,6 +57,8 @@ A和D键左右移动（虽然移动没啥用),J射击，漏掉五辆坦克就los
 
 ## · 结论
 没啥结论...写的很痛苦算么
+
+那就再一次祝老师早日康复！！！
 
 ## · 致谢
 感谢室友教我安装pygame
