@@ -1,7 +1,7 @@
-# 第十二次作业
+# 第十次作业
 
 ## · 摘要
-本次作业完成了第十一次作业，完成了作业4.16题的实现：
+本次作业完成了第十次作业，完成了作业4.16题的实现：
 
 >***4.16 实现地球、木星和太阳的真实三体运动模拟**
 
@@ -24,7 +24,7 @@
 
 **①以太阳为原点，太阳初始速度为0**
 
-运行程序[the sun origin of 0 initial velocity.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20twelfth%20homework/the%20sun%20origin%20of%200%20initial%20velocity.py)
+运行程序[word10-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Word10-1.py)
 
 木星质量为其真实质量时
 
@@ -44,8 +44,7 @@
 
 **①以太阳为原点，太阳有初始速度，使得总动量为0**
 
-运行程序[the sun origin of 0 total momentum.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20twelfth%20homework/the%20sun%20origin%20of%200%20total%20momentum.py)
-
+运行程序[Word10-2](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Word10-2.py)
 
 木星质量为其真实质量时
 
@@ -65,8 +64,7 @@
 
 **③以质心为原点，太阳有初始速度，使得总动量为0**
 
-运行程序[the center of mass origin of 0 initial velocity.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20twelfth%20homework/the%20center%20of%20mass%20origin%20of%200%20initial%20velocity.py)
-
+运行程序[Word10-3](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Word10-3.py)
 
 木星质量为其真实质量时
 
