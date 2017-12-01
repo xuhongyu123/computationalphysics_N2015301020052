@@ -18,6 +18,7 @@
 
 ![](http://i.imgur.com/9epeVMY.jpg)
 
+
 取GM为4Pi方，得到欧拉法递推公式
 
 ![](http://i.imgur.com/RBapeFo.jpg)
@@ -50,6 +51,7 @@
 木星质量为其真实质量时
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-2.jpg)
+
 木星质量为其真实质量的10倍时
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-3.jpg)
