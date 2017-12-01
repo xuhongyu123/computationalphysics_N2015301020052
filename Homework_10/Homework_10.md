@@ -50,7 +50,6 @@
 木星质量为其真实质量时
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-2.jpg)
-
 木星质量为其真实质量的10倍时
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-3.jpg)
@@ -83,7 +82,7 @@
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-9.jpg)
 
-**③以质心为原点，太阳有初始速度，使得总动量为0**
+**以质心为原点，太阳有初始速度，使得总动量为0**
 
 运行程序[Word10-3](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Word10-3.py)
 
