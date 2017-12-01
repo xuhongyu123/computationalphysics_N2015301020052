@@ -14,7 +14,7 @@
 
 同时，因为三个星体都在运动，所以将质心放在原点上更实用，这里就用到了质心公式
 
-![](http://i.imgur.com/OuAO6nJ.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-1.jpg)
 
 并且，使太阳也有初速度，从而总动量为0，就可以将系统的质心固定不动。
 
@@ -28,19 +28,19 @@
 
 木星质量为其真实质量时
 
-![](http://i.imgur.com/XNaqu99.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-2.jpg)
 
 木星质量为其真实质量的10倍时
 
-![](http://i.imgur.com/ipFec0f.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-3.jpg)
 
 木星质量为其真实质量的100倍时
 
-![](http://i.imgur.com/dPBe8lx.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-4.jpg)
 
 木星质量为其真实质量的1000倍(=太阳质量)时
 
-![](http://i.imgur.com/C4LeUcI.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-5.jpg)
 
 **①以太阳为原点，太阳有初始速度，使得总动量为0**
 
@@ -48,7 +48,7 @@
 
 木星质量为其真实质量时
 
-![](http://i.imgur.com/Qhfjyqz.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-6.jpg)
 
 木星质量为其真实质量的10倍时
 
