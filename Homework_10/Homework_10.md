@@ -52,15 +52,15 @@
 
 木星质量为其真实质量的10倍时
 
-![](http://i.imgur.com/JAzL15o.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-7.jpg)
 
 木星质量为其真实质量的100倍时
 
-![](http://i.imgur.com/FpezVCl.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-8.jpg)
 
 木星质量为其真实质量的1000倍(=太阳质量)时
 
-![](http://i.imgur.com/tDR7t05.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-9.jpg)
 
 **③以质心为原点，太阳有初始速度，使得总动量为0**
 
@@ -68,19 +68,19 @@
 
 木星质量为其真实质量时
 
-![](http://i.imgur.com/EvwUgwy.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-10.jpg)
 
 木星质量为其真实质量的10倍时
 
-![](http://i.imgur.com/52MKJwZ.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-11.jpg)
 
 木星质量为其真实质量的100倍时
 
-![](http://i.imgur.com/9b3eWMj.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-12.jpg)
 
 木星质量为其真实质量的1000倍(=太阳质量)时
 
-![](http://i.imgur.com/ZxqwOnX.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/10-13.jpg)
 
 
 ## · 结论
