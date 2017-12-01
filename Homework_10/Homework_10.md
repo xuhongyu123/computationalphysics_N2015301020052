@@ -6,7 +6,28 @@
 >***4.16 实现地球、木星和太阳的真实三体运动模拟**
 
 ## · 背景介绍
-同第十一次作业。
+万有引力公式
+
+![](http://i.imgur.com/T2KE2sq.png)
+
+由书本设定其中一个行星质量远大于另一个，于是固定位置，由另一个行星绕之运动的公式推导
+
+![](http://i.imgur.com/JzeElZN.jpg)
+
+![](http://i.imgur.com/g01urvh.jpg)
+
+![](http://i.imgur.com/9epeVMY.jpg)
+
+取GM为4Pi方，得到欧拉法递推公式
+
+![](http://i.imgur.com/RBapeFo.jpg)
+
+
+双星系统初始瞬间在相互引力作用下欲进行稳定的圆周运动，可推导初始速度
+
+![](http://i.imgur.com/0wyZEe9.jpg)
+
+那么在设定质量比K的情况下，便可以通过欧拉公式求得双星运动轨道
 
 查询数据可知，太阳的质量约为木星质量的1000倍，地球质量的33万倍
 
@@ -22,7 +43,7 @@
 
 #### 4.16 实现地球、木星和太阳的真实三体运动模拟
 
-**①以太阳为原点，太阳初始速度为0**
+**以太阳为原点，太阳初始速度为0**
 
 运行程序[word10-1](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Word10-1.py)
 
