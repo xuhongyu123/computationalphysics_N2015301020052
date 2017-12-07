@@ -8,7 +8,7 @@
 ## · 背景介绍
 在不存在电荷的空间中，电势的分布遵循拉普拉斯方程:
 
-![](http://i.imgur.com/XE6WXcX.png)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/11-1.png)
 
 理论上，只要在一定的边界条件下求解就可以得到静电势的空间分布，但是除了一些特殊的边界条件以外，对于这类问题我们难以得到解析解。所以我们必须使用数值计算的方法，得到电势的数值解。
 
@@ -20,7 +20,7 @@ Jacobi方法的改进版是Gauss-Seidel方法。在计算中，我们总是算�
 
 5.3题给出的是一个平板电容器，要求计算周围的电势。
 
-![](http://i.imgur.com/hNsuBYD.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/11-2.jpg)
 
 
 ##  正文 
@@ -36,11 +36,11 @@ Jacobi方法的改进版是Gauss-Seidel方法。在计算中，我们总是算�
 
 得到2D等高线电势图，对应的3D图像和电场线矢量图。
 
-![](http://i.imgur.com/UuI23EL.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/11-3.png)
 
-![](http://i.imgur.com/LHt1SnK.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/11-4.png)
 
-![](http://i.imgur.com/nqiPvS1.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/11-5.png)
 
 可以看出，平板处电势最强，其他地方电势呈发散状。电场线垂直于平板。这与实际情况是相符合的。
 
@@ -50,7 +50,7 @@ Jacobi方法的改进版是Gauss-Seidel方法。在计算中，我们总是算�
 
 然而在实际操作中，中轴为i=55，在进行v[110-i][j]=-v[i][j]求对面算符时，老报错list index out of range，还没找到原因，有待进一步改进。
 
-![](http://i.imgur.com/BflZxgz.jpg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/11-6.jpg)
 
 
 ## · 结论 
