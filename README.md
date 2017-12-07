@@ -21,7 +21,7 @@
 - [x] 9.[Exercise_9:Chapter 3 problem 3.31: Billiard ball on diverse table](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_9/Homework_9.md)任选课本88页任意题完成
 - [x] 10.[Middle Project:pygame](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/middle%20exam/Middle%20Exam.md)祝老师早日康复！！！
 - [x] 11.[Exercise_10:Chapter 3 problem 4.16: the sun origin of 0 initial velocity](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Homework_10.md)任选课本4.10-4.16一题完成
-- [ ] 12.[Exercise_11:Chapter 4 problem 4.11: The percession of Mercury]()
+- [x] 12.[Exercise_11:Chapter 5 problem 5.3: The symmetry of capacitor ](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/Homework_11.md)任选课本5.1-5.4一题完成
 - [ ] 13.[Exercise_12:Chapter 4 problem 4.18: The Kirkwood Gap]()
 - [ ] 14.[Exercise_13:Chapter 5 problem 5.7: The Jacobi method v.s.The SOR algorithm]()
 - [ ] 15.[Exercise_14:Chapter 6 problem 6.15: The realistic string problem]()
