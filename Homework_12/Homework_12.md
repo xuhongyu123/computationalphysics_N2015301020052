@@ -32,7 +32,7 @@
 
 观察初始位置在0.3m和0.7m处波包的后续运动。
 
-![](http://i.imgur.com/N8hL3Lk.gif)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/wave.gif)
 
 可以看到，首先初始是0.3m和0.7m位置的两个波
 
