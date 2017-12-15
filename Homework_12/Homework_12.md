@@ -8,7 +8,7 @@
 ## · 背景介绍
 由波动方程
 
-![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/12-7.pngg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/12-7.png)
 
 一维情况时，y代表弦上各点相对于其平衡位置的位移，x代表各点在弦上的坐标，t代表时间，c代表波在弦上的传播速度。
 
@@ -46,7 +46,7 @@
 
 发生碰撞合成峰值是两波峰之和的一个峰。
 
-![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/12-4.pngg)
+![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/12-4.png)
 
 然后分开，并不改变形状与速度。
 
