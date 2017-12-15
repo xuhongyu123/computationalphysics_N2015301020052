@@ -28,9 +28,7 @@
 
 ## · 正文
 
-####6.6 证明波包不会被相互碰撞而影响，即两个波包会穿过彼此而不发生形状与速度的改变
-
-运行程序[wave.py](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/Word12.py)
+运行程序[Word12.py](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/Word12.py)
 
 观察初始位置在0.3m和0.7m处波包的后续运动。
 
