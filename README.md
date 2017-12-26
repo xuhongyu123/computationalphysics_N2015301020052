@@ -23,4 +23,4 @@
 - [x] 11.[Exercise_10:Chapter 4 problem 4.16: the sun origin of 0 initial velocity](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_10/Homework_10.md)任选课本4.10-4.16一题完成
 - [x] 12.[Exercise_11:Chapter 5 problem 5.3: The symmetry of capacitor ](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_11/Homework_11.md)任选课本5.1-5.4一题完成
 - [x] 13.[Exercise_12:Chapter 6 problem 6.6: The Wave](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_12/Homework_12.md)任选课本6.1-6.8一题完成
-- [ ] 16.[Final Project:用轨道能量分析Kirkwood Gap的缝宽]()
+- [x] 16.[Final Project:史瓦西时空中粒子的运动 ](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/tree/master/Final%20Exam)完结撒花，感谢老师和助教一学期以来的帮助
